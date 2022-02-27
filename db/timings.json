@@ -1,0 +1,410 @@
+{
+	"_id" : ObjectId("594cf0aabe903b4e10b53489"),
+	"day" : "weekday",
+	"endTime" : 635,
+	"routeid" : "route1",
+	"startTime" : 550,
+	"stations" : [
+		{
+			"stationName" : "Chennai Beach",
+			"seqno" : 1,
+			"stationid" : 113,
+			"arrivalTime" : 550,
+			"departureTime" : 550
+		},
+		{
+			"stationName" : "Chennai Fort",
+			"seqno" : 2,
+			"stationid" : 114,
+			"arrivalTime" : 554,
+			"departureTime" : 554
+		},
+		{
+			"stationName" : "Chennai Park",
+			"seqno" : 3,
+			"stationid" : 115,
+			"arrivalTime" : 556,
+			"departureTime" : 556
+		},
+		{
+			"stationName" : "Chintadaripet",
+			"seqno" : 4,
+			"stationid" : 116,
+			"arrivalTime" : 558,
+			"departureTime" : 558
+		},
+		{
+			"stationName" : "Chennai Chetpat",
+			"seqno" : 5,
+			"stationid" : 117,
+			"arrivalTime" : 600,
+			"departureTime" : 600
+		},
+		{
+			"stationName" : "Tiruvallikeni",
+			"seqno" : 6,
+			"stationid" : 118,
+			"arrivalTime" : 602,
+			"departureTime" : 602
+		},
+		{
+			"stationName" : "Light House",
+			"seqno" : 7,
+			"stationid" : 119,
+			"arrivalTime" : 604,
+			"departureTime" : 604
+		},
+		{
+			"stationName" : "Mundakakanni Amman Koil",
+			"seqno" : 8,
+			"stationid" : 120,
+			"arrivalTime" : 608,
+			"departureTime" : 608
+		},
+		{
+			"stationName" : "Thirumayilai",
+			"seqno" : 9,
+			"stationid" : 121,
+			"arrivalTime" : 609,
+			"departureTime" : 609
+		},
+		{
+			"stationName" : "Mandaveli",
+			"seqno" : 10,
+			"stationid" : 122,
+			"arrivalTime" : 611,
+			"departureTime" : 611
+		},
+		{
+			"stationName" : "Greenways Road",
+			"seqno" : 11,
+			"stationid" : 123,
+			"arrivalTime" : 613,
+			"departureTime" : 613
+		},
+		{
+			"stationName" : "Kotturpuram",
+			"seqno" : 12,
+			"stationid" : 124,
+			"arrivalTime" : 615,
+			"departureTime" : 615
+		},
+		{
+			"stationName" : "Kasturba Nagar",
+			"seqno" : 13,
+			"stationid" : 125,
+			"arrivalTime" : 617,
+			"departureTime" : 617
+		},
+		{
+			"stationName" : "Indira Nagar",
+			"seqno" : 14,
+			"stationid" : 126,
+			"arrivalTime" : 619,
+			"departureTime" : 619
+		},
+		{
+			"stationName" : "Tiruvanmiyur",
+			"seqno" : 15,
+			"stationid" : 127,
+			"arrivalTime" : 620,
+			"departureTime" : 620
+		},
+		{
+			"stationName" : "Taramani",
+			"seqno" : 16,
+			"stationid" : 128,
+			"arrivalTime" : 623,
+			"departureTime" : 623
+		},
+		{
+			"stationName" : "Perungudi",
+			"seqno" : 17,
+			"stationid" : 129,
+			"arrivalTime" : 625,
+			"departureTime" : 625
+		},
+		{
+			"stationName" : "Velachery",
+			"seqno" : 18,
+			"stationid" : 130,
+			"arrivalTime" : 635,
+			"departureTime" : 0
+		}
+	],
+	"trainid" : 41009,
+	"type" : "MRTS"
+},
+{
+	"_id" : ObjectId("594e397a22bcb92214bdb2e8"),
+	"day" : "weekday",
+	"endTime" : 650,
+	"routeid" : "route2",
+	"startTime" : 605,
+	"stations" : [
+		{
+			"stationid" : 130,
+			"seqno" : 1,
+			"stationName" : "Velachery",
+			"arrivalTime" : 605,
+			"departureTime" : 605
+		},
+		{
+			"stationid" : 129,
+			"seqno" : 2,
+			"stationName" : "Perungudi",
+			"arrivalTime" : 625,
+			"departureTime" : 608
+		},
+		{
+			"stationid" : 128,
+			"seqno" : 3,
+			"stationName" : "Taramani",
+			"arrivalTime" : 610,
+			"departureTime" : 610
+		},
+		{
+			"stationid" : 127,
+			"seqno" : 4,
+			"stationName" : "Tiruvanmiyur",
+			"arrivalTime" : 613,
+			"departureTime" : 613
+		},
+		{
+			"stationid" : 126,
+			"seqno" : 5,
+			"stationName" : "Indira Nagar",
+			"arrivalTime" : 614,
+			"departureTime" : 614
+		},
+		{
+			"stationid" : 125,
+			"seqno" : 6,
+			"stationName" : "Kasturba Nagar",
+			"arrivalTime" : 616,
+			"departureTime" : 616
+		},
+		{
+			"stationid" : 124,
+			"seqno" : 7,
+			"stationName" : "Kotturpuram",
+			"arrivalTime" : 618,
+			"departureTime" : 618
+		},
+		{
+			"stationid" : 123,
+			"seqno" : 8,
+			"stationName" : "Greenways Road",
+			"arrivalTime" : 620,
+			"departureTime" : 620
+		},
+		{
+			"stationid" : 122,
+			"seqno" : 9,
+			"stationName" : "Mandaveli",
+			"arrivalTime" : 622,
+			"departureTime" : 622
+		},
+		{
+			"stationid" : 121,
+			"seqno" : 10,
+			"stationName" : "Thirumayilai",
+			"arrivalTime" : 624,
+			"departureTime" : 624
+		},
+		{
+			"stationid" : 120,
+			"seqno" : 11,
+			"stationName" : "Mundakakanni Amman Koil",
+			"arrivalTime" : 625,
+			"departureTime" : 625
+		},
+		{
+			"stationid" : 119,
+			"seqno" : 12,
+			"stationName" : "Light House",
+			"arrivalTime" : 629,
+			"departureTime" : 629
+		},
+		{
+			"stationid" : 118,
+			"seqno" : 13,
+			"stationName" : "Tiruvallikeni",
+			"arrivalTime" : 631,
+			"departureTime" : 631
+		},
+		{
+			"stationid" : 117,
+			"seqno" : 14,
+			"stationName" : "Chennai Chetpat",
+			"arrivalTime" : 633,
+			"departureTime" : 633
+		},
+		{
+			"stationid" : 116,
+			"seqno" : 15,
+			"stationName" : "Chintadaripet",
+			"arrivalTime" : 635,
+			"departureTime" : 635
+		},
+		{
+			"stationid" : 115,
+			"seqno" : 16,
+			"stationName" : "Chennai Park",
+			"arrivalTime" : 637,
+			"departureTime" : 637
+		},
+		{
+			"stationid" : 114,
+			"seqno" : 17,
+			"stationName" : "Chennai Fort",
+			"arrivalTime" : 639,
+			"departureTime" : 639
+		},
+		{
+			"stationid" : 113,
+			"seqno" : 18,
+			"stationName" : "Chennai Beach",
+			"arrivalTime" : 650,
+			"departureTime" : 650
+		}
+	],
+	"trainid" : 41008,
+	"type" : "MRTS"
+},
+{
+	"_id" : ObjectId("5a8b021527542f0e7d7c973f"),
+	"endTime" : 1635,
+	"routeid" : "route1",
+	"startTime" : 1550,
+	"stations" : [
+		{
+			"stationName" : "Chennai Beach",
+			"seqno" : 1,
+			"stationid" : 113,
+			"arrivalTime" : 550,
+			"departureTime" : 550
+		},
+		{
+			"stationName" : "Chennai Fort",
+			"seqno" : 2,
+			"stationid" : 114,
+			"arrivalTime" : 554,
+			"departureTime" : 554
+		},
+		{
+			"stationName" : "Chennai Park",
+			"seqno" : 3,
+			"stationid" : 115,
+			"arrivalTime" : 556,
+			"departureTime" : 556
+		},
+		{
+			"stationName" : "Chintadaripet",
+			"seqno" : 4,
+			"stationid" : 116,
+			"arrivalTime" : 558,
+			"departureTime" : 558
+		},
+		{
+			"stationName" : "Chennai Chetpat",
+			"seqno" : 5,
+			"stationid" : 117,
+			"arrivalTime" : 600,
+			"departureTime" : 600
+		},
+		{
+			"stationName" : "Tiruvallikeni",
+			"seqno" : 6,
+			"stationid" : 118,
+			"arrivalTime" : 602,
+			"departureTime" : 602
+		},
+		{
+			"stationName" : "Light House",
+			"seqno" : 7,
+			"stationid" : 119,
+			"arrivalTime" : 604,
+			"departureTime" : 604
+		},
+		{
+			"stationName" : "Mundakakanni Amman Koil",
+			"seqno" : 8,
+			"stationid" : 120,
+			"arrivalTime" : 608,
+			"departureTime" : 608
+		},
+		{
+			"stationName" : "Thirumayilai",
+			"seqno" : 9,
+			"stationid" : 121,
+			"arrivalTime" : 609,
+			"departureTime" : 609
+		},
+		{
+			"stationName" : "Mandaveli",
+			"seqno" : 10,
+			"stationid" : 122,
+			"arrivalTime" : 611,
+			"departureTime" : 611
+		},
+		{
+			"stationName" : "Greenways Road",
+			"seqno" : 11,
+			"stationid" : 123,
+			"arrivalTime" : 613,
+			"departureTime" : 613
+		},
+		{
+			"stationName" : "Kotturpuram",
+			"seqno" : 12,
+			"stationid" : 124,
+			"arrivalTime" : 615,
+			"departureTime" : 615
+		},
+		{
+			"stationName" : "Kasturba Nagar",
+			"seqno" : 13,
+			"stationid" : 125,
+			"arrivalTime" : 617,
+			"departureTime" : 617
+		},
+		{
+			"stationName" : "Indira Nagar",
+			"seqno" : 14,
+			"stationid" : 126,
+			"arrivalTime" : 619,
+			"departureTime" : 619
+		},
+		{
+			"stationName" : "Tiruvanmiyur",
+			"seqno" : 15,
+			"stationid" : 127,
+			"arrivalTime" : 620,
+			"departureTime" : 620
+		},
+		{
+			"stationName" : "Taramani",
+			"seqno" : 16,
+			"stationid" : 128,
+			"arrivalTime" : 623,
+			"departureTime" : 623
+		},
+		{
+			"stationName" : "Perungudi",
+			"seqno" : 17,
+			"stationid" : 129,
+			"arrivalTime" : 625,
+			"departureTime" : 625
+		},
+		{
+			"stationName" : "Velachery",
+			"seqno" : 18,
+			"stationid" : 130,
+			"arrivalTime" : 635,
+			"departureTime" : 0
+		}
+	],
+	"trainid" : 41009,
+	"type" : "MRTS"
+},

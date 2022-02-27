@@ -1,0 +1,342 @@
+{
+	"_id" : ObjectId("594bb4b5fd9b6805c4b70e22"),
+	"final" : "130",
+	"name" : "route1",
+	"route" : [
+		{
+			"stationid" : 113,
+			"seqno" : 0,
+			"stationName" : "Chennai Beach",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 114,
+			"seqno" : 1,
+			"stationName" : "Chennai Fort",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 115,
+			"seqno" : 2,
+			"stationName" : "Chennai Park",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 116,
+			"seqno" : 3,
+			"stationName" : "Chintadaripet",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 117,
+			"seqno" : 4,
+			"stationName" : "Chennai Chetpat",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 118,
+			"seqno" : 6,
+			"stationName" : "Light House",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 119,
+			"seqno" : 5,
+			"stationName" : "Tiruvallikeni",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 120,
+			"seqno" : 7,
+			"stationName" : "Mundakakanni Amman Koil",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 121,
+			"seqno" : 8,
+			"stationName" : "Thirumayilai",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 122,
+			"seqno" : 9,
+			"stationName" : "Mandaveli",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 123,
+			"seqno" : 10,
+			"stationName" : "Greenways Road",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 124,
+			"seqno" : 11,
+			"stationName" : "Kotturpuram",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 125,
+			"seqno" : 12,
+			"stationName" : "Kasturba Nagar",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 126,
+			"seqno" : 13,
+			"stationName" : "Indira Nagar",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 127,
+			"seqno" : 14,
+			"stationName" : "Tiruvanmiyur",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 128,
+			"seqno" : 15,
+			"stationName" : "Taramani",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 129,
+			"seqno" : 16,
+			"stationName" : "Perungudi",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 130,
+			"seqno" : 17,
+			"stationName" : "Velachery",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		}
+	],
+	"start" : "113",
+	"type" : "MRTS"
+},
+{
+	"_id" : ObjectId("594cefcc936668394cdf9667"),
+	"final" : "113",
+	"name" : "route2",
+	"route" : [
+		{
+			"stationid" : 130,
+			"seqno" : 0,
+			"stationName" : "Velachery",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 129,
+			"seqno" : 1,
+			"stationName" : "Perungudi",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 128,
+			"seqno" : 2,
+			"stationName" : "Taramani",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 127,
+			"seqno" : 3,
+			"stationName" : "Tiruvanmiyur",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 126,
+			"seqno" : 4,
+			"stationName" : "Indira Nagar",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 125,
+			"seqno" : 5,
+			"stationName" : "Kasturba Nagar",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 124,
+			"seqno" : 6,
+			"stationName" : "Kotturpuram",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 123,
+			"seqno" : 7,
+			"stationName" : "Greenways Road",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 122,
+			"seqno" : 8,
+			"stationName" : "Mandaveli",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 121,
+			"seqno" : 9,
+			"stationName" : "Thirumayilai",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 120,
+			"seqno" : 10,
+			"stationName" : "Mundakakanni Amman Koil",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 119,
+			"seqno" : 11,
+			"stationName" : "Light House",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 118,
+			"seqno" : 12,
+			"stationName" : "Tiruvallikeni",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 117,
+			"seqno" : 13,
+			"stationName" : "Chennai Chetpat",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 116,
+			"seqno" : 14,
+			"stationName" : "Chintadaripet",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 115,
+			"seqno" : 15,
+			"stationName" : "Chennai Park",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 114,
+			"seqno" : 16,
+			"stationName" : "Chennai Fort",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		},
+		{
+			"stationid" : 113,
+			"seqno" : 17,
+			"stationName" : "Chennai Beach",
+			"location" : {
+				"latitude" : 0,
+				"longitude" : 0
+			}
+		}
+	],
+	"start" : "130",
+	"type" : "MRTS"
+},

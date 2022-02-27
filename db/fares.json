@@ -1,0 +1,14 @@
+{
+	"_id" : ObjectId("5aba05880181d875e0512777"),
+	"fare" : "10",
+	"station1" : "Velachery",
+	"station2" : "Chennai Beach",
+	"type" : "MRTS"
+},
+{
+	"_id" : ObjectId("5aba06090181d875e0512778"),
+	"fare" : "10",
+	"station1" : "Chennai Beach",
+	"station2" : "Velachery",
+	"type" : "MRTS"
+},
